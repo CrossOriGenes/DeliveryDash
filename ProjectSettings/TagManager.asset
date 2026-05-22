@@ -6,6 +6,7 @@ TagManager:
   tags:
   - FoodItem
   - Customer
+  - Boost
   layers:
   - Default
   - TransparentFX
